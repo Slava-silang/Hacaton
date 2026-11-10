@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="575" viewBox="0 0 1030 575">
+<rect width="1030" height="575" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#222">
+<text x="35" y="44" font-size="26" font-weight="bold">Прямая сеть Red Wings</text>
+<text x="35" y="72" font-size="15">Парных рейсов в неделю · тёплый / холодный сезон · схема без масштаба</text>
+<line x1="515" y1="300" x2="305" y2="230" stroke="#9f2139" stroke-width="3"/>
+<line x1="305" y1="230" x2="785" y2="125" stroke="#416f97" stroke-width="3"/>
+<line x1="305" y1="230" x2="850" y2="325" stroke="#416f97" stroke-width="3"/>
+<line x1="515" y1="300" x2="326" y2="455" stroke="#9f2139" stroke-width="3"/>
+<line x1="515" y1="300" x2="785" y2="125" stroke="#9f2139" stroke-width="3"/>
+<line x1="515" y1="300" x2="850" y2="325" stroke="#9f2139" stroke-width="3"/>
+<line x1="515" y1="300" x2="112" y2="325" stroke="#9f2139" stroke-width="3"/>
+<line x1="515" y1="300" x2="805" y2="485" stroke="#9f2139" stroke-width="3"/>
+<rect x="390" y="236" width="52" height="21" rx="5" fill="white" stroke="#ddd"/><text x="416" y="251" text-anchor="middle" font-size="13">4 / 4</text>
+<rect x="501" y="141" width="52" height="21" rx="5" fill="white" stroke="#ddd"/><text x="527" y="156" text-anchor="middle" font-size="13">2 / 1</text>
+<rect x="658" y="269" width="52" height="21" rx="5" fill="white" stroke="#ddd"/><text x="684" y="284" text-anchor="middle" font-size="13">2 / 1</text>
+<rect x="393" y="378" width="52" height="21" rx="5" fill="white" stroke="#ddd"/><text x="419" y="393" text-anchor="middle" font-size="13">3 / 3</text>
+<rect x="636" y="205" width="52" height="21" rx="5" fill="white" stroke="#ddd"/><text x="662" y="220" text-anchor="middle" font-size="13">3 / 3</text>
+<rect x="692" y="312" width="52" height="21" rx="5" fill="white" stroke="#ddd"/><text x="718" y="327" text-anchor="middle" font-size="13">3 / 3</text>
+<rect x="214" y="315" width="52" height="21" rx="5" fill="white" stroke="#ddd"/><text x="240" y="330" text-anchor="middle" font-size="13">4 / 3</text>
+<rect x="648" y="399" width="52" height="21" rx="5" fill="white" stroke="#ddd"/><text x="674" y="414" text-anchor="middle" font-size="13">3 / 3</text>
+<circle cx="515" cy="300" r="6" fill="#222"/><text x="515" y="285" text-anchor="middle" font-size="16" font-weight="bold" paint-order="stroke" stroke="white" stroke-width="5">Екатеринбург</text>
+<circle cx="305" cy="230" r="6" fill="#222"/><text x="305" y="215" text-anchor="middle" font-size="16" font-weight="bold" paint-order="stroke" stroke="white" stroke-width="5">Казань</text>
+<circle cx="326" cy="455" r="6" fill="#222"/><text x="326" y="482" text-anchor="middle" font-size="16" font-weight="bold" paint-order="stroke" stroke="white" stroke-width="5">Самара</text>
+<circle cx="785" cy="125" r="6" fill="#222"/><text x="785" y="110" text-anchor="middle" font-size="16" font-weight="bold" paint-order="stroke" stroke="white" stroke-width="5">Новый Уренгой</text>
+<circle cx="850" cy="325" r="6" fill="#222"/><text x="850" y="352" text-anchor="middle" font-size="16" font-weight="bold" paint-order="stroke" stroke="white" stroke-width="5">Нижневартовск</text>
+<circle cx="112" cy="325" r="6" fill="#222"/><text x="112" y="352" text-anchor="middle" font-size="16" font-weight="bold" paint-order="stroke" stroke="white" stroke-width="5">Нижний Новгород</text>
+<circle cx="805" cy="485" r="6" fill="#222"/><text x="805" y="512" text-anchor="middle" font-size="16" font-weight="bold" paint-order="stroke" stroke="white" stroke-width="5">Кемерово</text>
+<text x="35" y="552" font-size="14">Источник частот — лист «Сети», расчётная книга от 10 ноября 2026</text></g></svg>
